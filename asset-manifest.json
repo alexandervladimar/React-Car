@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Car/static/css/main.62189643.chunk.css",
+    "main.js": "/React-Car/static/js/main.a2d7b096.chunk.js",
+    "main.js.map": "/React-Car/static/js/main.a2d7b096.chunk.js.map",
+    "runtime-main.js": "/React-Car/static/js/runtime-main.be8d6db1.js",
+    "runtime-main.js.map": "/React-Car/static/js/runtime-main.be8d6db1.js.map",
+    "static/css/2.1cdcfe91.chunk.css": "/React-Car/static/css/2.1cdcfe91.chunk.css",
+    "static/js/2.4dafc067.chunk.js": "/React-Car/static/js/2.4dafc067.chunk.js",
+    "static/js/2.4dafc067.chunk.js.map": "/React-Car/static/js/2.4dafc067.chunk.js.map",
+    "index.html": "/React-Car/index.html",
+    "static/css/2.1cdcfe91.chunk.css.map": "/React-Car/static/css/2.1cdcfe91.chunk.css.map",
+    "static/css/main.62189643.chunk.css.map": "/React-Car/static/css/main.62189643.chunk.css.map",
+    "static/js/2.4dafc067.chunk.js.LICENSE.txt": "/React-Car/static/js/2.4dafc067.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be8d6db1.js",
+    "static/css/2.1cdcfe91.chunk.css",
+    "static/js/2.4dafc067.chunk.js",
+    "static/css/main.62189643.chunk.css",
+    "static/js/main.a2d7b096.chunk.js"
+  ]
+}

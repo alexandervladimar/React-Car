@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created on 2010-01-03 by Jorge Stolfi with the script mformula_svg -->
+<!-- This file is declared PUBLIC DOMAIN by its creator -->
+
+<svg
+  id="fig"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+
+  fill="none"
+  fill-opacity="1"
+  fill-rule="evenodd"
+
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-dasharray="none"
+  stroke-opacity="1"
+
+  font-style="normal"
+  font-weight="bold"
+  font-size="10.0px"
+  font-family="Bitstream Vera"
+
+  width="437.53737827707567"
+  height="257.79999999999984"
+>
+
+
+  <g
+    transform="scale(2.0)"
+  >
+
+  <defs>
+  </defs>
+
+    <path d="M +083.4,+051.7 L +059.1,+034.1" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +059.1,+034.1 L +033.4,+049.5" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +034.5,+047.4 L +012.4,+034.8" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +032.2,+051.5 L +010.0,+038.9" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +083.4,+077.2 L +059.1,+094.8" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +059.1,+094.8 L +033.4,+079.4" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +032.2,+077.4 L +010.0,+090.0" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +034.5,+081.5 L +012.4,+094.1" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +081.1,+051.7 L +081.1,+077.2" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +085.7,+051.7 L +085.7,+077.2" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +033.4,+049.5 L +033.4,+079.4" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +083.4,+051.7 L +109.4,+036.7" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +111.7,+036.7 L +111.7,+011.2" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +107.1,+036.7 L +107.1,+011.2" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +135.4,+077.2 L +159.6,+094.8" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +159.6,+094.8 L +185.4,+079.5" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +184.2,+081.5 L +206.4,+094.1" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +186.5,+077.4 L +208.7,+090.0" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +135.4,+051.7 L +159.6,+034.1" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +159.6,+034.1 L +185.4,+049.5" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +186.5,+051.5 L +208.7,+038.9" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +184.2,+047.4 L +206.4,+034.8" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +137.7,+077.2 L +137.7,+051.7" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +133.0,+077.2 L +133.0,+051.7" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +185.4,+079.5 L +185.4,+049.5" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +135.4,+077.2 L +109.4,+092.2" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +107.1,+092.2 L +107.1,+117.7" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +111.7,+092.2 L +111.7,+117.7" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +083.4,+077.2 L +109.4,+092.2" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <path d="M +135.4,+051.7 L +109.4,+036.7" stroke-width="1.50px" stroke="rgb(0,0,0)" /> -->
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+083.4" cy="+051.7" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+059.1" cy="+034.1" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+033.4" cy="+049.5" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+011.2" cy="+036.9" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+083.4" cy="+077.2" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+059.1" cy="+094.8" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+033.4" cy="+079.4" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+011.2" cy="+092.0" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+109.4" cy="+036.7" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+109.4" cy="+011.2" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+135.4" cy="+077.2" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+159.6" cy="+094.8" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+185.4" cy="+079.5" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+207.6" cy="+092.0" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+135.4" cy="+051.7" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+159.6" cy="+034.1" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+185.4" cy="+049.5" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+207.6" cy="+036.9" r="0007.2"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(0,0,0)" fill="rgb(0,0,0)">
+      <circle cx="+109.4" cy="+092.2" r="0008.0"/>
+    </g>
+    <g stroke-width="0.75px" stroke="rgb(161,36,18)" fill="rgb(230,51,26)">
+      <circle cx="+109.4" cy="+117.7" r="0007.2"/>
+    </g>
+
+  </g>
+</svg>
